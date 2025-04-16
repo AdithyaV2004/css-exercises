@@ -1,0 +1,14 @@
+.fclick, .sclick{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    cursor: pointer;
+}
+
+.fclick{
+    background-color: black;
+    color: white;
+}
+
+.sclick{
+    background-color: yellow;
+}
